@@ -1,0 +1,44 @@
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.Form1.resources
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.Properties.Resources.resources
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.GenerateResource.cache
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\shakhnoza.niyozova\source\repos\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.Form1.resources
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.Properties.Resources.resources
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.GenerateResource.cache
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\User\Downloads\вх\projs\2\Шахноза Ниёзова\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.Form1.resources
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.Properties.Resources.resources
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.GenerateResource.cache
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\shakhnoza.niyozova\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.exe.config
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.exe
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\bin\Debug\SecondProject.pdb
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.AssemblyReference.cache
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.Form1.resources
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.Properties.Resources.resources
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.GenerateResource.cache
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.exe
+C:\Users\zubaidullo.nematov\Downloads\SecondProject\SecondProject\SecondProject\obj\Debug\SecondProject.pdb
