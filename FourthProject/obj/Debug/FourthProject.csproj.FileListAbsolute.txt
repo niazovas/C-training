@@ -1,0 +1,54 @@
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/bin/Debug/FourthProject.exe.config
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/bin/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/bin/Debug/FourthProject.pdb
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.Form1.resources
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/source/repos/FourthProject/FourthProject/obj/Debug/FourthProject.pdb
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/obj/Debug/FourthProject.pdb
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/bin/Debug/FourthProject.exe.config
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/bin/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/Desktop/FourthProject/FourthProject/bin/Debug/FourthProject.pdb
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe.config
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.pdb
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.AssemblyReference.cache
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Form1.resources
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Properties.Resources.resources
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.GenerateResource.cache
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.CoreCompileInputs.cache
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.exe
+C:/Users/zubaidullo.nematov/Desktop/StudentsProjects/4/Ниёзова Шахноза/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.pdb
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe.config
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.pdb
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.exe
+C:/Users/shakhnoza.niyozova/Downloads/FourthProjectNiyozova (CR) (1)/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.pdb
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe.config
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.exe
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/bin/Debug/FourthProject.pdb
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.AssemblyReference.cache
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Form1.resources
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.Properties.Resources.resources
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.GenerateResource.cache
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.csproj.CoreCompileInputs.cache
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.exe
+/Users/shakhnozaniyozova/C#/FourthProjectNiyozova/FourthProject/FourthProject/obj/Debug/FourthProject.pdb
