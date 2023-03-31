@@ -1,0 +1,33 @@
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Form1.resources
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Properties.Resources.resources
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe.config
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\bin\Debug\ThirdProject.pdb
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.exe
+C:\Users\Owner\Desktop\Projects\ThirdProject\ThirdProject\obj\Debug\ThirdProject.pdb
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe.config
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\bin\Debug\ThirdProject.pdb
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.AssemblyReference.cache
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Form1.resources
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Properties.Resources.resources
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.GenerateResource.cache
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.exe
+C:\Users\zubaidullo.nematov\Desktop\StudentsProjects\3\Шахноза Ниёзова\ThirdProject\ThirdProject\obj\Debug\ThirdProject.pdb
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe.config
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\bin\Debug\ThirdProject.exe
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\bin\Debug\ThirdProject.pdb
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.AssemblyReference.cache
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Form1.resources
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.Properties.Resources.resources
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.GenerateResource.cache
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.csproj.CoreCompileInputs.cache
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.exe
+C:\Users\shakhnoza.niyozova\Downloads\ThirdProject(CR)\ThirdProject\ThirdProject\obj\Debug\ThirdProject.pdb
