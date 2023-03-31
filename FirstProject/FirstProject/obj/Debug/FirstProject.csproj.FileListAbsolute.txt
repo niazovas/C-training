@@ -1,0 +1,98 @@
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/source/repos/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/C#/FirstProjectForTest/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Downloads/FirstProject/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/User/Downloads/Telegram Desktop/NiyozovaSH/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/shakhnoza.niyozova/Documents/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/Owner/Desktop/for test/FirstProject (1)/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+C:/Users/Owner/Desktop/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+C:/Users/Owner/Desktop/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+C:/Users/Owner/Desktop/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.SuggestedBindingRedirects.cache
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+C:/Users/Owner/Desktop/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/bin/Debug/FirstProject.exe.config
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/bin/Debug/FirstProject.exe
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/bin/Debug/FirstProject.pdb
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.AssemblyReference.cache
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.Form1.resources
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.Properties.Resources.resources
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.GenerateResource.cache
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.csproj.CoreCompileInputs.cache
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.exe
+/Users/shakhnozaniyozova/C#/FirstProject/FirstProject/obj/Debug/FirstProject.pdb
